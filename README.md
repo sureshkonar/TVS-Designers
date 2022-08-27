@@ -31,16 +31,16 @@ Design the website for the above mentioned agricultural based product that
 ![image](https://user-images.githubusercontent.com/74930080/187014787-533578cd-511e-4e58-b8cc-2275516d8844.png)
 
 
-3 Simplistic NEW EVENTS section
+3) Simplistic NEW EVENTS section
 
 ![image](https://user-images.githubusercontent.com/74930080/187014796-db54fe5d-fe48-490a-8025-6138328e8929.png)
 
 
-4 Icon Based Priority Section
+4) Icon Based Priority Section
 
 ![image](https://user-images.githubusercontent.com/74930080/187014823-455a74ad-08c6-4cdd-8eb5-db7dc1c73145.png)
 
-5 Revamped Footer 
+5) Revamped Footer 
 
 ![image](https://user-images.githubusercontent.com/74930080/187014827-79c457d3-9218-4485-8f1e-665ff82b7741.png)
 
