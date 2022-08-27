@@ -47,7 +47,7 @@ Design the website for the above mentioned agricultural based product that
 # Quick Video ➡️
 https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-93fd-1a8ade5d67ed.mp4
 
-# TakeAways this Competitions
+# Key TakeAways from this Competitions
 
 1) Approach For a Simplistic And structural Design 
 2) Inhand feature in ADOBE XD
