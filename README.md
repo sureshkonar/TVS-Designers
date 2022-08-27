@@ -16,7 +16,7 @@ Design the website for the above mentioned agricultural based product that
                       make the user experience better. You can also take help from existing website
                       of MP Agro
                       
-# UI/UX Desgn Screenshots ➡️
+# UI/UX Desgn Sxreenshots ➡️
 
 ![Web 1920 – 4](https://user-images.githubusercontent.com/74930080/187014628-907c5149-2779-4646-8bb4-7aeb5840b659.png)
 
@@ -47,17 +47,17 @@ Design the website for the above mentioned agricultural based product that
 # Quick Video ➡️
 https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-93fd-1a8ade5d67ed.mp4
 
-# Things learned During this Competitions
+# TakeAways this Competitions
 
-a) Approach For a Simplistic And structural Design 
-b) Inhand feature in ADOBE XD
-c) Understanding the User's Requirement 
-d) Addition OF features Satisfying User's Need
+1) Approach For a Simplistic And structural Design 
+2) Inhand feature in ADOBE XD
+3) Understanding the User's Requirement 
+4) Addition OF features Satisfying User's Need
 
 # Credits 
 
-Vaibhav Rajput - Design Thinking & Management 🤔 + Navigation Bar Design
-Tanishq Jain - Colors 🎨 + Fonts + Footbar Dsign
-Suresh Konar - Prsentation + Flashcard Section + Video 📽️
+1)Vaibhav Rajput - Design Thinking & Management 🤔 + Navigation Bar Design
+2)Tanishq Jain - Colors 🎨 + Fonts + Footbar Dsign
+3)Suresh Konar - Prsentation + Flashcard Section + Video 📽️
 
 
