@@ -65,7 +65,9 @@ https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-
 # Credits 🏅
 
 1)Vaibhav Rajput - Design Thinking & Management 🤔 + Navigation Bar Design
+
 2)Tanishq Jain - Colors 🎨 + Fonts + Footbar Dsign
+
 3)Suresh Konar - Prsentation + Flashcard Section + Video 📽️
 
 
