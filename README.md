@@ -45,6 +45,7 @@ Design the website for the above mentioned agricultural based product that
 ![image](https://user-images.githubusercontent.com/74930080/187014827-79c457d3-9218-4485-8f1e-665ff82b7741.png)
 
 # Quick Video ➡️
+
 https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-93fd-1a8ade5d67ed.mp4
 
 # Technology Stack 📝
@@ -54,14 +55,14 @@ https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-
 ![image](https://user-images.githubusercontent.com/74930080/188194399-b6467343-adbc-49b7-9b05-0766a991eac5.png)
 
 
-# Key TakeAways from this Competitions
+# Key TakeAways from this Competitions ✅
 
 1) Approach For a Simplistic And structural Design 
 2) Inhand feature in ADOBE XD
 3) Understanding the User's Requirement 
 4) Addition OF features Satisfying User's Need
 
-# Credits 
+# Credits 🏅
 
 1)Vaibhav Rajput - Design Thinking & Management 🤔 + Navigation Bar Design
 2)Tanishq Jain - Colors 🎨 + Fonts + Footbar Dsign
