@@ -18,7 +18,7 @@ Designing the website of MP Agro Industries Development Corporation Limited, Bho
 
 Design the website for the above mentioned agricultural based product that the company has. For reference consider any of the suitable features that the          existing similar websites have and design the complete UI of the product to make the user experience better. You can also take help from existing website of MP Agro
                       
-# UI/UX Desgn Screenshots ➡️
+# UI/UX Desgn Screenshots 🖼️
 
 ![Web 1920 – 4](https://user-images.githubusercontent.com/74930080/187014628-907c5149-2779-4646-8bb4-7aeb5840b659.png)
 
