@@ -2,7 +2,7 @@
 
 Product Design Competition , E-Summit'22 , Indian Institute of Technology (IIT), Indore
 
-We Team TVS Designers have successfully participated in product designing competition organized by IIT Indore comprising of Team Members -
+We Team TVS Designers have successfully participated in product designing competition organized by IIT Indore comprising of Team Members:
 
 Team Leader - Vaibhav Rajput 👑           VIT Bhopal University (VIT), Bhopal
 
