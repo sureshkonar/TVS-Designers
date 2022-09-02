@@ -4,11 +4,11 @@ Product Design Competition , E-Summit'22 , Indian Institute of Technology (IIT),
 
 We Team TVS Designers have successfully participated in product designing competition organized by IIT Indore comprising of Team Members:
 
-Team Leader - Vaibhav Rajput 👑           VIT Bhopal University (VIT), Bhopal
+Team Leader - Vaibhav Rajput 👑          [ VIT Bhopal University (VIT), Bhopal ]
 
-Team Member - Tanishq jain                Sagar Institute of Research and Technology (SIRT), Bhopal
+Team Member - Tanishq jain               [ Sagar Institute of Research and Technology (SIRT), Bhopal ]
 
-Team Member - Suresh Mahalingam Konar     VIT Bhopal University (VIT), Bhopal
+Team Member - Suresh Mahalingam Konar    [ VIT Bhopal University (VIT), Bhopal ]
 
 # Problem Statement ➡️
 
