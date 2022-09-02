@@ -51,7 +51,8 @@ https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-
 
 1) Adobe XD
 
-![image](https://user-images.githubusercontent.com/74930080/188194072-015ee5d0-6f8b-4da6-9ee2-e3f597781fd3.png)
+![image](https://user-images.githubusercontent.com/74930080/188194399-b6467343-adbc-49b7-9b05-0766a991eac5.png)
+
 
 # Key TakeAways from this Competitions
 
