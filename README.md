@@ -1,26 +1,29 @@
-# TVS-Designers
+# TVS-Designers 
+
 Product Design Competition , E-Summit'22 , Indian Institute of Technology (IIT), Indore
 
 We Team TVS Designers have successfully participated in product designing competition organized by IIT Indore comprising of Team Members -
+
 Team Leader - Vaibhav Rajput 👑           VIT Bhopal University (VIT), Bhopal
+
 Team Member - Tanishq jain                Sagar Institute of Research and Technology (SIRT), Bhopal
+
 Team Member - Suresh Mahalingam Konar     VIT Bhopal University (VIT), Bhopal
 
 # Problem Statement ➡️
+
 Designing the website of MP Agro Industries Development Corporation Limited, Bhopal 
 
 # Problem Description ➡️
-Design the website for the above mentioned agricultural based product that
-                      the company has. For reference consider any of the suitable features that the
-                      existing similar websites have and design the complete UI of the product to
-                      make the user experience better. You can also take help from existing website
-                      of MP Agro
+
+Design the website for the above mentioned agricultural based product that the company has. For reference consider any of the suitable features that the          existing similar websites have and design the complete UI of the product to make the user experience better. You can also take help from existing website of MP Agro
                       
 # UI/UX Desgn Screenshots ➡️
 
 ![Web 1920 – 4](https://user-images.githubusercontent.com/74930080/187014628-907c5149-2779-4646-8bb4-7aeb5840b659.png)
 
 # Design Insights ➡️
+
 1) Optimized Navigation Bar
 
 ![image](https://user-images.githubusercontent.com/74930080/187014755-8b9face4-598c-4df6-88f7-597b2dbf1c90.png)
