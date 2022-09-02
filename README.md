@@ -47,6 +47,12 @@ Design the website for the above mentioned agricultural based product that
 # Quick Video ➡️
 https://user-images.githubusercontent.com/74930080/187015633-2b8bdef0-fc90-4ab5-93fd-1a8ade5d67ed.mp4
 
+# Technology Stack 📝
+
+1) Adobe XD
+
+![image](https://user-images.githubusercontent.com/74930080/188194072-015ee5d0-6f8b-4da6-9ee2-e3f597781fd3.png)
+
 # Key TakeAways from this Competitions
 
 1) Approach For a Simplistic And structural Design 
